@@ -1,5 +1,5 @@
 # INTERNSAVY
-This repository is a collection of projects done during my internship at Internsavy.
+This repository is a collection of projects done during my internship at [Internsavy](https://www.internsavy.com/#features).
 
 ## Projects:
 1. Customer Segmentation using K-Means
